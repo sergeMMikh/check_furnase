@@ -1,1 +1,1 @@
-# check_furnase
+### This is the simple script to check remote furnace conditions. Made for electrochemistry laboratory TEMA DEMAC Univercity of Aveiro
